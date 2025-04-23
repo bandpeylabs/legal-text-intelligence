@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-openai
+langchain[docarray]
+docarray
+pydantic==1.10.8
+pytube
+python-dotenv
+tiktoken
+faiss-cpu       # Use this for CPU systems
+scikit-learn
+ruff
